@@ -1,0 +1,1000 @@
+City Code,Province Code,Country Code,City Name,Province Name,Country Name
+PUNCH,JK,IN,Punch,Jammu and Kashmir,India
+KLRAI,TN,IN,Keelakarai,Tamil Nadu,India
+TIRAP,AR,IN,Tirap,Arunachal Pradesh,India
+ZMANI,UP,IN,Zamania,Uttar Pradesh,India
+ZAIDR,UP,IN,Zaidpur,Uttar Pradesh,India
+ZHEAB,TG,IN,Zaheerabad,Telangana,India
+YEOLA,MH,IN,Yeola,Maharashtra,India
+YELUR,KA,IN,Yellapur,Karnataka,India
+YELDU,TG,IN,Yellandu,Telangana,India
+YAVTM,MH,IN,Yavatmal,Maharashtra,India
+YAVAL,MH,IN,Yawal,Maharashtra,India
+YANAM,PY,IN,Yanam,Puducherry,India
+YMUAR,HR,IN,Yamunanagar,Haryana,India
+YADGR,KA,IN,Yadgiri,Karnataka,India
+WOKHA,NL,IN,Wokha,Nagaland,India
+WEAYP,RJ,IN,Weir,Rajasthan,India
+WLGTN,TN,IN,Wellington,Tamil Nadu,India
+WAIRN,UP,IN,Wazirganj,Uttar Pradesh,India
+WAHIM,MH,IN,Washim,Maharashtra,India
+WARUD,MP,IN,Warud,Madhya Pradesh,India
+WRORA,MH,IN,Warora,Maharashtra,India
+WALGN,BR,IN,Warisaliganj,Bihar,India
+WRDHA,MH,IN,Wardha,Maharashtra,India
+WAEOI,MP,IN,Waraseoni,Madhya Pradesh,India
+WARGL,TG,IN,Warangal,Telangana,India
+WANRT,TG,IN,Wanaparthy,Telangana,India
+WAKER,GJ,IN,Wankaner,Gujarat,India
+WNIYW,MH,IN,Wani,Maharashtra,India
+WALPE,TN,IN,Walajapet,Tamil Nadu,India
+WIXJP,MH,IN,Wai,Maharashtra,India
+WDIQA,KA,IN,Wadi,Karnataka,India
+VYARA,GJ,IN,Vyara,Gujarat,India
+KOTAL,AP,IN,Kothapalli,Andhra Pradesh,India
+VINDA,UP,IN,Vrindavan,Uttar Pradesh,India
+VRHLA,TN,IN,Vriddhachalam,Tamil Nadu,India
+VIGAR,AP,IN,Vizianagaram,Andhra Pradesh,India
+VIEWZ,MH,IN,Vita,Maharashtra,India
+VSNGR,GJ,IN,Visnagar,Gujarat,India
+VIKHT,AP,IN,Visakhapatnam,Andhra Pradesh,India
+VISDR,GJ,IN,Visavadar,Gujarat,India
+VIRDU,TN,IN,Virudunagar,Tamil Nadu,India
+VIRNL,TN,IN,Viravanallur,Tamil Nadu,India
+VIRAR,MH,IN,Virar,Maharashtra,India
+VINUD,AP,IN,Vinukonda,Andhra Pradesh,India
+VIPUA,TN,IN,Villupuram,Tamil Nadu,India
+VIABD,TG,IN,Vikarabad,Telangana,India
+VIJYD,AP,IN,Vijayawada,Andhra Pradesh,India
+VIJPR,GJ,IN,Vijapur,Gujarat,India
+VDSHA,MP,IN,Vidisha,Madhya Pradesh,India
+VERAL,GJ,IN,Veraval,Gujarat,India
+VEPTA,AP,IN,Vepagunta,Andhra Pradesh,India
+VEKRI,AP,IN,Venkatagiri,Andhra Pradesh,India
+VEMLA,AP,IN,Vemulawada,Andhra Pradesh,India
+PRATV,TN,IN,Paramathi Velur,Tamil Nadu,India
+VELOR,TN,IN,Vellore,Tamil Nadu,India
+VJLPR,GJ,IN,Vejalpur,Gujarat,India
+VENIY,TN,IN,Vedaraniyam,Tamil Nadu,India
+VALKN,TN,IN,Vattalkundu,Tamil Nadu,India
+VASDU,TN,IN,Vasudevanallur,Tamil Nadu,India
+VSIND,MH,IN,Vashind,Maharashtra,India
+VACDG,GA,IN,Vasco Da Gama,Goa,India
+VSAUW,GJ,IN,Vasa,Gujarat,India
+VRKLA,KL,IN,Varkala,Kerala,India
+VARNI,UP,IN,Varanasi,Uttar Pradesh,India
+VANIB,TN,IN,Vaniyambadi,Tamil Nadu,India
+VNASI,TN,IN,Vandavasi,Tamil Nadu,India
+VALSD,GJ,IN,Valsad,Gujarat,India
+VLPAR,TN,IN,Valparai,Tamil Nadu,India
+VVIDA,GJ,IN,Vallabh Vidyanagar,Gujarat,India
+VAIPR,GJ,IN,Valabhipur,Gujarat,India
+VAJUR,MH,IN,Vaijapur,Maharashtra,India
+VODRA,GJ,IN,Vadodara,Gujarat,India
+VDNGR,GJ,IN,Vadnagar,Gujarat,India
+VADLP,AP,IN,Vadlapudi,Andhra Pradesh,India
+VADIT,TN,IN,Vadippatti,Tamil Nadu,India
+VDARI,TN,IN,Vadamadurai,Tamil Nadu,India
+VVALY,TN,IN,Vadakku Valliyur,Tamil Nadu,India
+VADZJ,MH,IN,Wada,Maharashtra,India
+UTRME,TN,IN,Uttiramerur,Tamil Nadu,India
+UTRAH,UT,IN,Uttarkashi,Uttarakhand,India
+UTRLA,UP,IN,Utraula,Uttar Pradesh,India
+USLMI,TN,IN,Usilampatti,Tamil Nadu,India
+USEAT,UP,IN,Usehat,Uttar Pradesh,India
+URVAO,AP,IN,Uravakonda,Andhra Pradesh,India
+URNAQ,MH,IN,Uran,Maharashtra,India
+ULETA,GJ,IN,Upleta,Gujarat,India
+UKALN,AP,IN,Uppal Kalan,Andhra Pradesh,India
+UNNAO,UP,IN,Unnao,Uttar Pradesh,India
+UNJHA,GJ,IN,Unjha,Gujarat,India
+UNHEL,MP,IN,Unhel,Madhya Pradesh,India
+UAWYQ,HP,IN,Una,Himachal Pradesh,India
+UNPAQ,GJ,IN,Una,Gujarat,India
+UWAVY,UP,IN,Un,Uttar Pradesh,India
+UYQWF,GJ,IN,Un,Gujarat,India
+UMREH,GJ,IN,Umreth,Gujarat,India
+UMRED,MH,IN,Umred,Maharashtra,India
+UMAKT,CT,IN,Umarkot,Chhattisgarh,India
+UMRKE,MH,IN,Umarkhed,Maharashtra,India
+UMRIA,MP,IN,Umaria,Madhya Pradesh,India
+UMRGA,MH,IN,Umarga,Maharashtra,India
+UHSNR,MH,IN,Ulhasnagar,Maharashtra,India
+UJAIN,MP,IN,Ujjain,Madhya Pradesh,India
+UJHAN,UP,IN,Ujhani,Uttar Pradesh,India
+UDIPT,TN,IN,Udumalaippettai,Tamil Nadu,India
+UDUPI,KA,IN,Udupi,Karnataka,India
+UDHAP,JK,IN,Udhampur,Jammu and Kashmir,India
+UDGIR,MH,IN,Udgir,Maharashtra,India
+UAKDI,TN,IN,Udankudi,Tamil Nadu,India
+UDARI,AS,IN,Udalguri,Assam,India
+UDIPR,MP,IN,Udaipura,Madhya Pradesh,India
+UDAIR,RJ,IN,Udaipur,Rajasthan,India
+UDAPR,TR,IN,Udaipur,Tripura,India
+OTYFJ,TN,IN,Ooty,Tamil Nadu,India
+UCHAN,HR,IN,Uchana,Haryana,India
+TUIYR,TN,IN,Turaiyur,Tamil Nadu,India
+TURYW,ML,IN,Tura,Meghalaya,India
+TNIZQ,AP,IN,Tuni,Andhra Pradesh,India
+TUDLA,UP,IN,Tundla,Uttar Pradesh,India
+TUSAR,MH,IN,Tumsar,Maharashtra,India
+TUMAR,KA,IN,Tumkur,Karnataka,India
+TULSP,UP,IN,Tulsipur,Uttar Pradesh,India
+TULJA,MH,IN,Tuljapur,Maharashtra,India
+TUFGA,WB,IN,Tufanganj,West Bengal,India
+TUNAG,NL,IN,Tuensang,Nagaland,India
+THRAP,KL,IN,Thiruvananthapuram,Kerala,India
+TRIHU,KL,IN,Thrissur,Kerala,India
+TOKUQ,RJ,IN,Tonk,Rajasthan,India
+TONDI,TN,IN,Tondi,Tamil Nadu,India
+TOHAN,HR,IN,Tohana,Haryana,India
+TORIN,RJ,IN,Todaraisingh,Rajasthan,India
+TODHM,RJ,IN,Todabhim,Rajasthan,India
+TILAH,OR,IN,Titlagarh,Odisha,India
+TIGAH,WB,IN,Titagarh,West Bengal,India
+TIAVL,TN,IN,Tisaiyanvilai,Tamil Nadu,India
+CHYAR,TN,IN,Cheyyar,Tamil Nadu,India
+TRUVM,TN,IN,Tiruvannamalai,Tamil Nadu,India
+TIVAR,TN,IN,Tiruvallur,Tamil Nadu,India
+TIRLA,KL,IN,Tiruvalla,Kerala,India
+THIUA,TN,IN,Thiruthani,Tamil Nadu,India
+TIANL,TN,IN,Tiruttangal,Tamil Nadu,India
+TIRUR,KL,IN,Tirur,Kerala,India
+TIRAM,TN,IN,Tiruppuvanam,Tamil Nadu,India
+TIUPR,TN,IN,Tirupur,Tamil Nadu,India
+TIPAN,TN,IN,Tirupparangunram,Tamil Nadu,India
+TUPAI,AP,IN,Tirupati,Andhra Pradesh,India
+TIUVE,TN,IN,Tirunelveli,Tamil Nadu,India
+TIRML,AP,IN,Tirumala,Andhra Pradesh,India
+TIROY,TN,IN,Tirukkoyilur,Tamil Nadu,India
+TIUGE,TN,IN,Tiruchengode,Tamil Nadu,India
+TICHA,TN,IN,Tiruchirappalli,Tamil Nadu,India
+TIPUR,KA,IN,Tiptur,Karnataka,India
+TINUK,AS,IN,Tinsukia,Assam,India
+TINUR,TN,IN,Tinnanur,Tamil Nadu,India
+TINDM,TN,IN,Tindivanam,Tamil Nadu,India
+TILHR,UP,IN,Tilhar,Uttar Pradesh,India
+TIKGA,MP,IN,Tikamgarh,Madhya Pradesh,India
+TIJAR,RJ,IN,Tijara,Rajasthan,India
+THOUA,MN,IN,Thoubal,Manipur,India
+THVAU,TN,IN,Thiruvarur,Tamil Nadu,India
+THSRA,GJ,IN,Thasra,Gujarat,India
+THARD,GJ,IN,Tharad,Gujarat,India
+THNUR,TN,IN,Thanjavur,Tamil Nadu,India
+THNAR,HR,IN,Thanesar,Haryana,India
+THANE,MH,IN,Thane,Maharashtra,India
+TBHWN,UP,IN,Thana Bhawan,Uttar Pradesh,India
+THAXP,GJ,IN,Thangadh,Gujarat,India
+THAUG,BR,IN,Thakurganj,Bihar,India
+THUWA,UP,IN,Thakurdwara,Uttar Pradesh,India
+TEZUR,AS,IN,Tezpur,Assam,India
+TERAL,KA,IN,Terdal,Karnataka,India
+TEOAR,MP,IN,Teonthar,Madhya Pradesh,India
+TENAS,TN,IN,Tenkasi,Tamil Nadu,India
+THENI,TN,IN,Theni,Tamil Nadu,India
+THLAE,KL,IN,Thalassery,Kerala,India
+TLHAR,MH,IN,Telhara,Maharashtra,India
+TEKAI,AP,IN,Tekkali,Andhra Pradesh,India
+TKALO,KA,IN,Tekkalakote,Karnataka,India
+TKARI,BR,IN,Tekari,Bihar,India
+TEHRI,UT,IN,Tehri,Uttarakhand,India
+TEGHR,BR,IN,Teghra,Bihar,India
+TASON,MH,IN,Tasgaon,Maharashtra,India
+TTARN,PB,IN,Tarn Taran,Punjab,India
+TAIER,KA,IN,Tarikere,Karnataka,India
+THGMB,TN,IN,Tharangambadi,Tamil Nadu,India
+TNGAR,RJ,IN,Taranagar,Rajasthan,India
+TARAA,MP,IN,Tarana,Madhya Pradesh,India
+TAMNL,TN,IN,Taramangalam,Tamil Nadu,India
+TARKW,WB,IN,Tarakeswar,West Bengal,India
+TAORU,HR,IN,Taoru,Haryana,India
+TANUK,AP,IN,Tanuku,Andhra Pradesh,India
+TANUR,TG,IN,Tandur,Telangana,India
+TANDA,UP,IN,Tanda,Uttar Pradesh,India
+TAKUR,UT,IN,Tanakpur,Uttarakhand,India
+TAMLK,WB,IN,Tamluk,West Bengal,India
+TLWAR,PB,IN,Talwara,Punjab,India
+TLODA,MH,IN,Taloda,Maharashtra,India
+TALIB,KL,IN,Taliparamba,Kerala,India
+TLIOA,KA,IN,Talikota,Karnataka,India
+TALEI,GA,IN,Taleigao,Goa,India
+TAGOD,MH,IN,Talegaon Dabhade,Maharashtra,India
+TALER,OR,IN,Talcher,Odisha,India
+TLAJA,GJ,IN,Talaja,Gujarat,India
+TKIFF,WB,IN,Taki,West Bengal,India
+TAKHP,CT,IN,Takhatpur,Chhattisgarh,India
+TKGRH,RJ,IN,Takhatgarh,Rajasthan,India
+TAJPR,UP,IN,Tajpur,Uttar Pradesh,India
+TDPAR,AP,IN,Tadpatri,Andhra Pradesh,India
+TDEGU,AP,IN,Tadepalligudem,Andhra Pradesh,India
+TADPL,AP,IN,Tadepalle,Andhra Pradesh,India
+SUIET,AP,IN,Suriapet,Andhra Pradesh,India
+SURAW,UP,IN,Surianwan,Uttar Pradesh,India
+SURED,GJ,IN,Surendranagar,Gujarat,India
+SURAH,RJ,IN,Suratgarh,Rajasthan,India
+SURAT,GJ,IN,Surat,Gujarat,India
+SURNI,TN,IN,Surandai,Tamil Nadu,India
+SURAG,RJ,IN,Surajgarh,Rajasthan,India
+SPAUL,BR,IN,Supaul,Bihar,India
+SUNEL,RJ,IN,Sunel,Rajasthan,India
+SUNDR,HP,IN,Sundarnagar,Himachal Pradesh,India
+SUNDR,OR,IN,Sundargarh,Odisha,India
+SUNAM,PB,IN,Sunam,Punjab,India
+SULYA,KA,IN,Sulya,Karnataka,India
+SUURU,AP,IN,Suluru,Andhra Pradesh,India
+SULUR,TN,IN,Sulur,Tamil Nadu,India
+STNPL,PB,IN,Sultanpur Lodhi,Punjab,India
+SLTPR,UP,IN,Sultanpur,Uttar Pradesh,India
+SUKET,RJ,IN,Suket,Rajasthan,India
+SJNGR,RJ,IN,Sujangarh,Rajasthan,India
+SUAAA,UP,IN,Suar,Uttar Pradesh,India
+SRVIL,TN,IN,Srivilliputhur,Tamil Nadu,India
+SRIHN,MH,IN,Shrivardhan,Maharashtra,India
+SIVTA,TN,IN,Srivaikuntam,Tamil Nadu,India
+SRLAM,AP,IN,Srisailam,Andhra Pradesh,India
+SRIAG,AP,IN,Sriramnagar,Andhra Pradesh,India
+SIPMR,TN,IN,Sriperumbudur,Tamil Nadu,India
+SRNVU,KA,IN,Srinivaspur,Karnataka,India
+SRIAG,JK,IN,Srinagar,Jammu and Kashmir,India
+SRNGA,UT,IN,Srinagar,Uttarakhand,India
+SMADH,RJ,IN,Sri Madhopur,Rajasthan,India
+KANUR,RJ,IN,Karanpur,Rajasthan,India
+SRIAM,AP,IN,Srikakulam,Andhra Pradesh,India
+SDNGH,RJ,IN,Sri Dungargarh,Rajasthan,India
+SORON,UP,IN,Soron,Uttar Pradesh,India
+SORXW,OR,IN,Soro,Odisha,India
+SORAD,OR,IN,Pottangi,Odisha,India
+SOPUR,JK,IN,Sopore,Jammu and Kashmir,India
+SONPA,HR,IN,Sonipat,Haryana,India
+SONDH,GJ,IN,Songadh,Gujarat,India
+SNEPR,OR,IN,Sonepur Rampur,Odisha,India
+SOARI,AS,IN,Sonari,Assam,India
+SOAMU,WB,IN,Sonamukhi,West Bengal,India
+SOMPE,AP,IN,Sompeta,Andhra Pradesh,India
+SOLAN,HP,IN,Solan,Himachal Pradesh,India
+SOJIR,GJ,IN,Sojitra,Gujarat,India
+SOJAT,RJ,IN,Sojat,Rajasthan,India
+SOHNA,HR,IN,Sohna,Haryana,India
+SOHAU,MP,IN,Sohagpur,Madhya Pradesh,India
+SIWAN,RJ,IN,Siwana,Rajasthan,India
+SIWAN,BR,IN,Siwan,Bihar,India
+SVKAI,TN,IN,Sivakasi,Tamil Nadu,India
+SIAGR,TN,IN,Sivagiri,Tamil Nadu,India
+SIVNG,TN,IN,Sivaganga,Tamil Nadu,India
+SIURI,WB,IN,Siuri,West Bengal,India
+SITGJ,UT,IN,Sitarganj,Uttarakhand,India
+SITAU,UP,IN,Sitapur,Uttar Pradesh,India
+STAMR,BR,IN,Sitamarhi,Bihar,India
+SIWAB,UP,IN,Siswa Bazar,Uttar Pradesh,India
+SIAUL,UP,IN,Sisauli,Uttar Pradesh,India
+SHIUR,MH,IN,Shirur,Maharashtra,India
+SIRMG,TN,IN,Sirumugai,Tamil Nadu,India
+SIRGU,KA,IN,Siruguppa,Karnataka,India
+SRILA,AP,IN,Sirsilla,Andhra Pradesh,India
+SIRSI,UP,IN,Sirsi,Uttar Pradesh,India
+SIRSI,KA,IN,Sirsi,Karnataka,India
+SIRAJ,UP,IN,Sirsaganj,Uttar Pradesh,India
+SIRSA,HR,IN,Sirsa,Haryana,India
+SIONJ,MP,IN,Sironj,Madhya Pradesh,India
+SROHI,RJ,IN,Sirohi,Rajasthan,India
+SRKZH,TN,IN,Sirkazhi,Tamil Nadu,India
+SIRND,PB,IN,Sirhind,Punjab,India
+SIRVA,KA,IN,Sira,Karnataka,India
+SINAR,MH,IN,Sinnar,Maharashtra,India
+SNGUR,WB,IN,Singur,West Bengal,India
+SIAYO,AP,IN,Singarayakonda,Andhra Pradesh,India
+SNGLR,TN,IN,Singanallur,Tamil Nadu,India
+SINDG,KA,IN,Sindgi,Karnataka,India
+SHIML,HP,IN,Shimla,Himachal Pradesh,India
+SIMDA,JH,IN,Simdega,Jharkhand,India
+SILVA,DN,IN,Silvassa,Dadra and Nagar Haveli,India
+SILOD,MH,IN,Sillod,Maharashtra,India
+SILCA,AS,IN,Silchar,Assam,India
+SILAO,BR,IN,Silao,Bihar,India
+SIKAR,RJ,IN,Sikar,Rajasthan,India
+SIANR,UP,IN,Sikandra Rao,Uttar Pradesh,India
+SINUR,UP,IN,Sikandarpur,Uttar Pradesh,India
+SIKBA,UP,IN,Sikandrabad,Uttar Pradesh,India
+SIKKA,GJ,IN,Sikka,Gujarat,India
+SIJUA,JH,IN,Sijhua,Jharkhand,India
+SIHOR,MP,IN,Sihora,Madhya Pradesh,India
+SIHOR,GJ,IN,Sihor,Gujarat,India
+SILAT,KA,IN,Sidlaghatta,Karnataka,India
+SIDHI,MP,IN,Sidhi,Madhya Pradesh,India
+SDHAI,UP,IN,Sidhauli,Uttar Pradesh,India
+SDIPT,TG,IN,Siddipet,Telangana,India
+SIDAR,GJ,IN,Sidhpur,Gujarat,India
+SIBAR,AS,IN,Sibsagar,Assam,India
+SHYGR,WB,IN,Shyamnagar,West Bengal,India
+SHJLR,MP,IN,Shujalpur,Madhya Pradesh,India
+SRGPN,KA,IN,Shrirangapattana,Karnataka,India
+SHIMU,MH,IN,Shrirampur,Maharashtra,India
+SHOND,MH,IN,Shrigonda,Maharashtra,India
+SHRPU,KA,IN,Shorapur,Karnataka,India
+SHOAU,KL,IN,Shoranur,Kerala,India
+SHOIU,TN,IN,Sholinghur,Tamil Nadu,India
+SOLAP,MH,IN,Solapur,Maharashtra,India
+SHIVP,MP,IN,Shivpuri,Madhya Pradesh,India
+SHGAR,UP,IN,Shishgarh,Uttar Pradesh,India
+SHPUR,MH,IN,Shirpur,Maharashtra,India
+SHIAT,KA,IN,Shirahatti,Karnataka,India
+SHRDI,MH,IN,Shirdi,Maharashtra,India
+SHVOG,KA,IN,Shivamogga,Karnataka,India
+SHILN,ML,IN,Shillong,Meghalaya,India
+SILGU,WB,IN,Siliguri,West Bengal,India
+SHIAD,UP,IN,Shikohabad,Uttar Pradesh,India
+SHKRP,UP,IN,Shikarpur,Uttar Pradesh,India
+SHIKU,KA,IN,Shikarpur,Karnataka,India
+SHION,KA,IN,Shiggaon,Karnataka,India
+SHTAL,KL,IN,Shertallai,Kerala,India
+SHEKT,UP,IN,Sherkot,Uttar Pradesh,India
+SERGA,BR,IN,Sherghati,Bihar,India
+SHEUR,MP,IN,Sheopur,Madhya Pradesh,India
+SEOAR,BR,IN,Sheohar,Bihar,India
+SHEON,RJ,IN,Sheoganj,Rajasthan,India
+SHEAN,MH,IN,Shegaon,Maharashtra,India
+SHNIU,WB,IN,Shantipur,West Bengal,India
+SHABD,UP,IN,Shamsabad,Uttar Pradesh,India
+SHAML,UP,IN,Shamli,Uttar Pradesh,India
+SHAGR,MP,IN,Shamgarh,Madhya Pradesh,India
+SHAJU,MP,IN,Shajapur,Madhya Pradesh,India
+SHAUR,RJ,IN,Shahpura,Rajasthan,India
+SHAPU,UP,IN,Shahpur,Uttar Pradesh,India
+SHAUR,BR,IN,Shahpur,Bihar,India
+SAHUR,MP,IN,Shahpur,Madhya Pradesh,India
+SHAPU,KA,IN,Shahpur,Karnataka,India
+SAHPS,UP,IN,Shahjahanpur Sadar,Uttar Pradesh,India
+SHAHI,UP,IN,Shahi,Uttar Pradesh,India
+SHAGJ,UP,IN,Shahganj,Uttar Pradesh,India
+SHADO,MP,IN,Shahdol,Madhya Pradesh,India
+SHAAD,MH,IN,Shahada,Maharashtra,India
+SHBAD,HR,IN,Shahabad,Haryana,India
+SAHBD,UP,IN,Shahabad,Uttar Pradesh,India
+SHBAD,KA,IN,Shahabad,Karnataka,India
+SERHI,MZ,IN,Serchhip,Mizoram,India
+SERAM,KA,IN,Sedam,Karnataka,India
+SMALW,MP,IN,Seoni Malwa,Madhya Pradesh,India
+SEONI,MP,IN,Seoni,Madhya Pradesh,India
+SEODA,MP,IN,Seondha,Madhya Pradesh,India
+SEHRA,UP,IN,Seohara,Uttar Pradesh,India
+SNDHW,MP,IN,Sendhwa,Madhya Pradesh,India
+SEHOR,MP,IN,Sehore,Madhya Pradesh,India
+SEURB,TG,IN,Secunderabad,Telangana,India
+SAYLA,GJ,IN,Sayla,Gujarat,India
+SMAHP,RJ,IN,Sawai Madhopur,Rajasthan,India
+SAVDA,MH,IN,Savda,Maharashtra,India
+SVNUR,KA,IN,Savanur,Karnataka,India
+SVATI,MH,IN,Sawantwadi,Maharashtra,India
+SAUSA,MP,IN,Sausar,Madhya Pradesh,India
+SANDT,KA,IN,Saundatti,Karnataka,India
+SATYN,TN,IN,Sathyamangalam,Tamil Nadu,India
+SATUR,TN,IN,Sattur,Tamil Nadu,India
+STEAP,AP,IN,Sattenapalle,Andhra Pradesh,India
+SATNA,MP,IN,Satna,Madhya Pradesh,India
+SAARA,MH,IN,Satara,Maharashtra,India
+SATAA,MH,IN,Satana,Maharashtra,India
+SASVD,MH,IN,Sasvad,Maharashtra,India
+SAWAR,RJ,IN,Sarwar,Rajasthan,India
+SARHE,GJ,IN,Sarkhej,Gujarat,India
+SARDG,PB,IN,Sardulgarh,Punjab,India
+SARHN,UP,IN,Sardhana,Uttar Pradesh,India
+SDHAR,RJ,IN,Sardarshahr,Rajasthan,India
+SARUL,UP,IN,Sarauli,Uttar Pradesh,India
+SANGP,MP,IN,Sarangpur,Madhya Pradesh,India
+SRAIL,CT,IN,Saraipali,Chhattisgarh,India
+SRAIM,UP,IN,Sarai Mir,Uttar Pradesh,India
+SRAIA,UP,IN,Sarai Akil,Uttar Pradesh,India
+SAOER,MH,IN,Saoner,Maharashtra,India
+SNKRA,WB,IN,Sankrail,West Bengal,India
+SAEHW,KA,IN,Sankeshwar,Karnataka,India
+SANRU,PB,IN,Sangrur,Punjab,India
+SANGO,MH,IN,Sangola,Maharashtra,India
+SANOD,RJ,IN,Sangod,Rajasthan,India
+SNGLI,MH,IN,Sangli,Maharashtra,India
+SANGI,HR,IN,Sangaria,Haryana,India
+SANGR,TG,IN,Sangareddy,Telangana,India
+SAGMN,MH,IN,Sangamner,Maharashtra,India
+SANUR,KA,IN,Sandur,Karnataka,India
+SNDIA,UP,IN,Sandila,Uttar Pradesh,India
+SANDI,UP,IN,Sandi,Uttar Pradesh,India
+SAOLE,GA,IN,Sancoale,Goa,India
+SANCH,RJ,IN,Sanchor,Rajasthan,India
+SNWAD,MP,IN,Sanawad,Madhya Pradesh,India
+SNAUR,PB,IN,Sanaur,Punjab,India
+SANAN,GJ,IN,Sanand,Gujarat,India
+SAMTR,UP,IN,Samthar,Uttar Pradesh,India
+SMRLA,PB,IN,Samrala,Punjab,India
+SAMDI,RJ,IN,Samdari,Rajasthan,India
+SMBHR,RJ,IN,Sambhar,Rajasthan,India
+SBHAL,UP,IN,Sambhal,Uttar Pradesh,India
+SAMUR,OR,IN,Sambalpur,Odisha,India
+SAMBA,JK,IN,Samba,Jammu and Kashmir,India
+SMATI,BR,IN,Samastipur,Bihar,India
+SAMKT,AP,IN,Samalkot,Andhra Pradesh,India
+SAMLK,HR,IN,Samalkha,Haryana,India
+SALUR,AP,IN,Salur,Andhra Pradesh,India
+SALBR,RJ,IN,Salumbar,Rajasthan,India
+SALEM,TN,IN,Salem,Tamil Nadu,India
+SALAA,GJ,IN,Salaya,Gujarat,India
+SAKTI,CT,IN,Sakti,Chhattisgarh,India
+SAKHR,KA,IN,Sakleshpur,Karnataka,India
+SANTI,WB,IN,Sainthia,West Bengal,India
+SAILU,MH,IN,Sailu,Maharashtra,India
+SAIHA,MZ,IN,Saiha,Mizoram,India
+JUNAH,OR,IN,Junagarh,Odisha,India
+SAINJ,JH,IN,Sahibganj,Jharkhand,India
+SHAWR,UP,IN,Sahawar,Uttar Pradesh,India
+SHAWN,UP,IN,Sahaswan,Uttar Pradesh,India
+SHPUR,UP,IN,Sahaspur,Uttar Pradesh,India
+SAHAS,BR,IN,Saharsa,Bihar,India
+SAHNR,UP,IN,Saharanpur,Uttar Pradesh,India
+SAULI,BR,IN,Sagauli,Bihar,India
+SAGAR,MP,IN,Sagar,Madhya Pradesh,India
+SAGAR,KA,IN,Sagar,Karnataka,India
+SAFPR,UP,IN,Safipur,Uttar Pradesh,India
+SAFDO,HR,IN,Safidon,Haryana,India
+SADRI,RJ,IN,Sadri,Rajasthan,India
+SDAHI,TG,IN,Sadashivpet,Telangana,India
+SADLI,KA,IN,Sadalgi,Karnataka,India
+SADBA,UP,IN,Sadabad,Uttar Pradesh,India
+SALGH,MP,IN,Sabalgarh,Madhya Pradesh,India
+RUSEA,BR,IN,Rosera,Bihar,India
+RUAJW,UP,IN,Rura,Uttar Pradesh,India
+RPNAG,PB,IN,Rupnagar,Punjab,India
+RUDAP,UP,IN,Rudarpur,Uttar Pradesh,India
+ROREE,UT,IN,Roorkee,Uttarakhand,India
+ROXPA,KA,IN,Ron,Karnataka,India
+ROTAK,HR,IN,Rohtak,Haryana,India
+ROHAQ,MH,IN,Roha,Maharashtra,India
+ROTSN,KA,IN,Robertson Pet,Karnataka,India
+ROBES,UP,IN,Robertsganj,Uttar Pradesh,India
+RISOD,MH,IN,Risod,Maharashtra,India
+RISHA,WB,IN,Rishra,West Bengal,India
+RIHKS,UT,IN,Rishikesh,Uttarakhand,India
+RINGA,RJ,IN,Ringas,Rajasthan,India
+RICHA,UP,IN,Richha,Uttar Pradesh,India
+REWAI,HR,IN,Rewari,Haryana,India
+REAWY,MP,IN,Rewa,Madhya Pradesh,India
+REGAN,BR,IN,Revelganj,Bihar,India
+REPAL,AP,IN,Repalle,Andhra Pradesh,India
+REOTI,BR,IN,Reoti,Bihar,India
+RNUKT,UP,IN,Renukut,Uttar Pradesh,India
+REGNA,AP,IN,Renigunta,Andhra Pradesh,India
+REHLI,MP,IN,Rehli,Madhya Pradesh,India
+RMNDL,AP,IN,Rajam Mandal,Andhra Pradesh,India
+RAYBG,KA,IN,Raybag,Karnataka,India
+RAHOT,AP,IN,Rayachoti,Andhra Pradesh,India
+RYAPZ,UP,IN,Raya,Uttar Pradesh,India
+RXAUL,BR,IN,Raxaul,Bihar,India
+RWTSA,RJ,IN,Rawatsar,Rajasthan,India
+RWBHT,RJ,IN,Rawatbhata,Rajasthan,India
+RAVER,MH,IN,Raver,Maharashtra,India
+RATNI,MH,IN,Ratnagiri,Maharashtra,India
+RATLM,MP,IN,Ratlam,Madhya Pradesh,India
+RATIA,HR,IN,Ratia,Haryana,India
+RATVV,UP,IN,Rath,Uttar Pradesh,India
+RTNPU,CT,IN,Ratanpur,Chhattisgarh,India
+RATNH,RJ,IN,Ratangarh,Rajasthan,India
+RASRA,UP,IN,Rasra,Uttar Pradesh,India
+RAIPU,TN,IN,Rasipuram,Tamil Nadu,India
+RAPAR,GJ,IN,Rapar,Gujarat,India
+RANPU,UP,IN,Ranipur,Uttar Pradesh,India
+RAIKT,UT,IN,Ranikhet,Uttarakhand,India
+RANIG,WB,IN,Raniganj,West Bengal,India
+RANIA,HR,IN,Rania,Haryana,India
+RNGIA,AS,IN,Rangia,Assam,India
+RNGPA,AS,IN,Rangapara,Assam,India
+RANCH,JH,IN,Ranchi,Jharkhand,India
+RANAA,GJ,IN,Ranavav,Gujarat,India
+RNAGH,WB,IN,Ranaghat,West Bengal,India
+RAMEK,MH,IN,Ramtek,Maharashtra,India
+MOGRA,WB,IN,Mogra,West Bengal,India
+RMPUA,PB,IN,Rampura,Punjab,India
+RMPUA,MP,IN,Rampura,Madhya Pradesh,India
+RAMPU,UP,IN,Rampur,Uttar Pradesh,India
+RAMNG,UT,IN,Ramnagar,Uttarakhand,India
+RMNGA,BR,IN,Ramnagar,Bihar,India
+RMNGA,UP,IN,Ramnagar,Uttar Pradesh,India
+RMJIP,WB,IN,Ramjibanpur,West Bengal,India
+RMGAH,RJ,IN,Ramgarh,Rajasthan,India
+RMGAH,JH,IN,Ramgarh,Jharkhand,India
+RANJM,RJ,IN,Ramganj Mandi,Rajasthan,India
+RAEWM,TN,IN,Rameswaram,Tamil Nadu,India
+RMNHA,TN,IN,Ramanathapuram,Tamil Nadu,India
+RNAGM,KA,IN,Ramanagaram,Karnataka,India
+RMHNP,AP,IN,Ramachandrapuram,Andhra Pradesh,India
+RAJUA,MH,IN,Rajura,Maharashtra,India
+RJULA,GJ,IN,Rajula,Gujarat,India
+RJSMD,RJ,IN,Rajsamand,Rajasthan,India
+RAJPU,PB,IN,Rajpura,Punjab,India
+RAJPU,MP,IN,Rajpur,Madhya Pradesh,India
+RJPIL,GJ,IN,Rajpipla,Gujarat,India
+RJMAH,WB,IN,Rajmahal,West Bengal,India
+RJKOT,GJ,IN,Rajkot,Gujarat,India
+RAJUN,MH,IN,Rajgurunagar,Maharashtra,India
+RAJGI,BR,IN,Rajgir,Bihar,India
+RAJGH,RJ,IN,Rajgarh,Rajasthan,India
+RJGAH,MP,IN,Rajgarh,Madhya Pradesh,India
+RJAUI,JK,IN,Rajauri,Jammu and Kashmir,India
+RAJPM,TN,IN,Rajapalayam,Tamil Nadu,India
+RAJPT,AP,IN,Rajampet,Andhra Pradesh,India
+RAJES,RJ,IN,Rajaldesar,Rajasthan,India
+RAJKH,RJ,IN,Rajakhera,Rajasthan,India
+RAJHU,AP,IN,Rajahmundry,Andhra Pradesh,India
+RASIH,RJ,IN,Raisinghnagar,Rajasthan,India
+RAISE,MP,IN,Raisen,Madhya Pradesh,India
+RAIPU,UT,IN,Raipur,Uttarakhand,India
+RAIPU,RJ,IN,Raipur,Rajasthan,India
+RAIPU,CT,IN,Raipur,Chhattisgarh,India
+RAIOT,PB,IN,Raikot,Punjab,India
+RIGAH,CT,IN,Raigarh,Chhattisgarh,India
+RAIGJ,WB,IN,Raiganj,West Bengal,India
+RICHU,KA,IN,Raichur,Karnataka,India
+RAHUI,MH,IN,Rahuri,Maharashtra,India
+RAHIT,MH,IN,Rahimatpur,Maharashtra,India
+RHATG,MP,IN,Rahatgarh,Madhya Pradesh,India
+RNTHP,WB,IN,Raghunathpur,West Bengal,India
+RAOGH,MP,IN,Raghogarh,Madhya Pradesh,India
+RAINJ,BR,IN,Rafiganj,Bihar,India
+RBAEI,UP,IN,Rae Bareli,Uttar Pradesh,India
+RAHPU,GJ,IN,Radhanpur,Gujarat,India
+RABVI,KA,IN,Rabkavi,Karnataka,India
+KOLAM,KL,IN,Kollam,Kerala,India
+KASBA,BR,IN,Kasba,Bihar,India
+QADIN,PB,IN,Qadian,Punjab,India
+PTTUR,AP,IN,Puttur,Andhra Pradesh,India
+PUTTR,KA,IN,Puttur,Karnataka,India
+PUSKR,RJ,IN,Pushkar,Rajasthan,India
+PUSAD,MH,IN,Pusad,Maharashtra,India
+PURWA,UP,IN,Purwa,Uttar Pradesh,India
+PULIA,WB,IN,Puruliya,West Bengal,India
+JROAD,OR,IN,Jajpur Road,Odisha,India
+PURNA,MH,IN,Purna,Maharashtra,India
+PURYP,OR,IN,Puri,Odisha,India
+PRANU,UP,IN,Puranpur,Uttar Pradesh,India
+PUPRI,BR,IN,Pupri,Bihar,India
+PPLIA,TN,IN,Punjai Puliyampatti,Tamil Nadu,India
+PNGAR,AP,IN,Punganuru,Andhra Pradesh,India
+PNEYU,MH,IN,Pune,Maharashtra,India
+PUNDI,HR,IN,Pundri,Haryana,India
+PNAUR,KL,IN,Punalur,Kerala,India
+PUHAN,HR,IN,Punahana,Haryana,India
+PULAM,JK,IN,Pulwama,Jammu and Kashmir,India
+PUYGD,TN,IN,Puliyangudi,Tamil Nadu,India
+PUENA,AP,IN,Pulivendla,Andhra Pradesh,India
+PULGN,MH,IN,Pulgaon,Maharashtra,India
+PKHYN,UP,IN,Pukhrayan,Uttar Pradesh,India
+PUOAI,TN,IN,Pudukkottai,Tamil Nadu,India
+PRDTU,AP,IN,Proddatur,Andhra Pradesh,India
+PRTAG,RJ,IN,Pratapgarh,Rajasthan,India
+PBLAR,AN,IN,Port Blair,Andaman and Nicobar Islands,India
+PORSA,MP,IN,Porsa,Madhya Pradesh,India
+POBAN,GJ,IN,Porbandar,Gujarat,India
+POALE,TN,IN,Poonamalle,Tamil Nadu,India
+PONRU,AP,IN,Ponnuru,Andhra Pradesh,India
+PONRI,TN,IN,Ponneri,Tamil Nadu,India
+POANI,KL,IN,Ponani,Kerala,India
+PONDA,GA,IN,Ponda,Goa,India
+POLUR,TN,IN,Polur,Tamil Nadu,India
+POLHI,TN,IN,Pollachi,Tamil Nadu,India
+PLVRM,AP,IN,Polavaram,Andhra Pradesh,India
+POLSR,OR,IN,Polasara,Odisha,India
+POKAR,RJ,IN,Pokaran,Rajasthan,India
+PITRG,UT,IN,Pithoragarh,Uttarakhand,India
+PIHAM,AP,IN,Pithapuram,Andhra Pradesh,India
+PROZP,BR,IN,Piro,Bihar,India
+PIRNA,KA,IN,Piriyapatna,Karnataka,India
+PIVAM,KL,IN,Piravam,Kerala,India
+PIACH,UP,IN,Pipraich,Uttar Pradesh,India
+PIPII,OR,IN,Pipili,Odisha,India
+PIPAR,RJ,IN,Pipar,Rajasthan,India
+PINJR,HR,IN,Pinjore,Haryana,India
+PNDWR,RJ,IN,Pindwara,Rajasthan,India
+PNAHT,UP,IN,Pinahat,Uttar Pradesh,India
+PILKA,UP,IN,Pilkhua,Uttar Pradesh,India
+PLIBH,UP,IN,Pilibhit,Uttar Pradesh,India
+PILAN,RJ,IN,Pilibangan,Rajasthan,India
+PLANI,RJ,IN,Pilani,Rajasthan,India
+PIHAN,UP,IN,Pihani,Uttar Pradesh,India
+PHULE,RJ,IN,Phulera,Rajasthan,India
+PHUBA,OR,IN,Phulbani,Odisha,India
+PHIUR,AP,IN,Phirangipuram,Andhra Pradesh,India
+PHLAU,PB,IN,Phillaur,Punjab,India
+PEKYJ,NL,IN,Phek,Nagaland,India
+PAHUD,UP,IN,Phaphund,Uttar Pradesh,India
+PLTAN,MH,IN,Phaltan,Maharashtra,India
+PHALI,RJ,IN,Phalodi,Rajasthan,India
+PHLAU,UP,IN,Phalauda,Uttar Pradesh,India
+PHAWR,PB,IN,Phagwara,Punjab,India
+PTLAD,GJ,IN,Petlad,Gujarat,India
+PERUN,TN,IN,Perundurai,Tamil Nadu,India
+PEIKL,TN,IN,Periyanayakkanpalaiyam,Tamil Nadu,India
+PEIAL,TN,IN,Periyakulam,Tamil Nadu,India
+PERVI,TN,IN,Peravurani,Tamil Nadu,India
+PERAM,TN,IN,Peranampattu,Tamil Nadu,India
+PEABU,TN,IN,Perambalur,Tamil Nadu,India
+PENOA,AP,IN,Penukonda,Andhra Pradesh,India
+PEUGA,AP,IN,Penugonda,Andhra Pradesh,India
+PNGRM,TN,IN,Pennagaram,Tamil Nadu,India
+PEDAM,TN,IN,Pennadam,Tamil Nadu,India
+PEFJF,MH,IN,Pen,Maharashtra,India
+PEHOW,HR,IN,Pehowa,Haryana,India
+PEDAM,AP,IN,Peddapuram,Andhra Pradesh,India
+PDALI,TG,IN,Peddapalli,Telangana,India
+PEDNA,AP,IN,Pedana,Andhra Pradesh,India
+PAYNU,KL,IN,Payyannur,Kerala,India
+PWAYN,UP,IN,Pawayan,Uttar Pradesh,India
+PVGDA,KA,IN,Pavagada,Karnataka,India
+PAURI,UT,IN,Pauri,Uttarakhand,India
+PAUNI,MH,IN,Pauni,Maharashtra,India
+PATUR,MH,IN,Patur,Maharashtra,India
+PTUKA,TN,IN,Pattukkottai,Tamil Nadu,India
+PATTI,PB,IN,Patti,Punjab,India
+PATRH,OR,IN,Patnagarh,Odisha,India
+PATNA,BR,IN,Patna,Bihar,India
+PTIAL,PB,IN,Patiala,Punjab,India
+PTHRI,MH,IN,Pathri,Maharashtra,India
+PATHR,MP,IN,Patharia,Madhya Pradesh,India
+PATHI,MH,IN,Pathardi,Maharashtra,India
+PATHN,PB,IN,Pathankot,Punjab,India
+PAMTH,KL,IN,Pathanamthitta,Kerala,India
+PATLG,CT,IN,Pathalgaon,Chhattisgarh,India
+PATUI,HR,IN,Pataudi,Haryana,India
+PANCR,TG,IN,Patancheru,Telangana,India
+PATAN,GJ,IN,Patan,Gujarat,India
+PTAMD,OR,IN,Pattamundai,Odisha,India
+PASGT,AR,IN,Pasighat,Arunachal Pradesh,India
+PASAN,CT,IN,Pasan,Chhattisgarh,India
+PAVTR,RJ,IN,Parvatsar,Rajasthan,India
+PRATM,AP,IN,Parvatipuram,Andhra Pradesh,India
+PARTU,MH,IN,Partur,Maharashtra,India
+PROLA,MH,IN,Parola,Maharashtra,India
+PVAIH,MH,IN,Paril Vaijinath,Maharashtra,India
+PRYAM,KL,IN,Pariyapuram,Kerala,India
+PARCG,UP,IN,Parikshitgarh,Uttar Pradesh,India
+PARDI,GJ,IN,Pardi,Gujarat,India
+PRBHN,MH,IN,Parbhani,Maharashtra,India
+PARVU,KL,IN,Paravur,Kerala,India
+PRASI,MP,IN,Parasia,Madhya Pradesh,India
+PRAMU,TN,IN,Paramakudi,Tamil Nadu,India
+KUJAN,OR,IN,Kujang,Odisha,India
+PANIS,KL,IN,Pappinisseri,Kerala,India
+PNSAM,TN,IN,Papanasam,Tamil Nadu,India
+PONAS,HP,IN,Paonta Sahib,Himachal Pradesh,India
+PANEL,MH,IN,Panvel,Maharashtra,India
+PANUI,TN,IN,Panruti,Tamil Nadu,India
+PANNA,MP,IN,Panna,Madhya Pradesh,India
+PNIAT,HR,IN,Panipat,Haryana,India
+PNIHA,WB,IN,Panihati,West Bengal,India
+PNDUA,WB,IN,Pandua,West Bengal,India
+PNDHR,MP,IN,Pandhurna,Madhya Pradesh,India
+PAHRU,MH,IN,Pandharpur,Maharashtra,India
+PNDVA,KA,IN,Pandavapura,Karnataka,India
+PNAJI,GA,IN,Panaji,Goa,India
+PNGAR,MP,IN,Panagar,Madhya Pradesh,India
+PALWL,HR,IN,Palwal,Haryana,India
+PAOCH,AP,IN,Paloncha,Andhra Pradesh,India
+PLANI,TN,IN,Palani,Tamil Nadu,India
+PALNR,AP,IN,Palmaner,Andhra Pradesh,India
+PLATI,TN,IN,Pallippatti,Tamil Nadu,India
+PALOD,TN,IN,Pallikondai,Tamil Nadu,India
+PALTI,TN,IN,Pallappatti,Tamil Nadu,India
+PLADM,TN,IN,Palladam,Tamil Nadu,India
+PAKND,AP,IN,Palkonda,Andhra Pradesh,India
+PLITN,GJ,IN,Palitana,Gujarat,India
+PLIAK,UP,IN,Palia Kalan,Uttar Pradesh,India
+PALZQ,RJ,IN,Pali,Rajasthan,India
+PLIWA,MP,IN,Pali,Madhya Pradesh,India
+PALKD,KL,IN,Palakkad,Kerala,India
+PLGHR,MH,IN,Palghar,Maharashtra,India
+PLERA,MP,IN,Palera,Madhya Pradesh,India
+PALSA,AP,IN,Palasa,Andhra Pradesh,India
+PALUR,GJ,IN,Palanpur,Gujarat,India
+PLAKO,AP,IN,Palakol,Andhra Pradesh,India
+PALCE,TN,IN,Palacode,Tamil Nadu,India
+PKAUR,WB,IN,Pakaur,West Bengal,India
+PKALA,AP,IN,Pakala,Andhra Pradesh,India
+PAIHN,MH,IN,Paithan,Maharashtra,India
+PAHSU,UP,IN,Pahasu,Uttar Pradesh,India
+PDRAN,UP,IN,Padrauna,Uttar Pradesh,India
+PADRA,GJ,IN,Padra,Gujarat,India
+PDANR,TN,IN,Padmanabhapuram,Tamil Nadu,India
+PDAMU,RJ,IN,Padampur,Rajasthan,India
+PDAUR,OR,IN,Padmapur,Odisha,India
+PADAM,JK,IN,Padam,Jammu and Kashmir,India
+PAHEW,UP,IN,Pachperwa,Uttar Pradesh,India
+PCHRA,MH,IN,Pachora,Maharashtra,India
+OSMBA,MH,IN,Osmanabad,Maharashtra,India
+OAIQY,UP,IN,Orai,Uttar Pradesh,India
+ONGLE,AP,IN,Ongole,Andhra Pradesh,India
+OKHAU,GJ,IN,Okha,Gujarat,India
+OZAXW,MH,IN,Ozar,Maharashtra,India
+OBRXA,UP,IN,Obra,Uttar Pradesh,India
+NUZVD,AP,IN,Nuziveedu,Andhra Pradesh,India
+NURPR,UP,IN,Nurpur,Uttar Pradesh,India
+NLAHI,AS,IN,North Lakhimpur,Assam,India
+NORTG,AS,IN,North Guwahati,Assam,India
+NGSOI,ML,IN,Nongstoin,Meghalaya,India
+NOKHA,RJ,IN,Nokha,Rajasthan,India
+NOHAR,RJ,IN,Nohar,Rajasthan,India
+NOMUD,JH,IN,Noamundi,Jharkhand,India
+NZMBD,TG,IN,Nizamabad,Telangana,India
+NRALI,BR,IN,Nirmali,Bihar,India
+NIRML,TG,IN,Nirmal,Telangana,India
+NEMKT,RJ,IN,Neem ka Thana,Rajasthan,India
+NIAHE,RJ,IN,Nimbahera,Rajasthan,India
+NIAPH,OR,IN,Nimapada,Odisha,India
+NIBAJ,RJ,IN,Nimbaj,Rajasthan,India
+NLOKH,HR,IN,Nilokheri,Haryana,India
+NILAG,MH,IN,Nilanga,Maharashtra,India
+NIKOA,TN,IN,Nilakottai,Tamil Nadu,India
+NLGRI,OR,IN,Nilgiri,Odisha,India
+NIHUR,UP,IN,Nihtaur,Uttar Pradesh,India
+NIDAO,AP,IN,Nidadavolu,Andhra Pradesh,India
+NIHAU,UP,IN,Nichlaul,Uttar Pradesh,India
+NEIKR,KL,IN,Neyyattinkara,Kerala,India
+NERAL,MH,IN,Neral,Maharashtra,India
+NNAGA,MP,IN,Nepanagar,Madhya Pradesh,India
+NELOR,AP,IN,Nellore,Andhra Pradesh,India
+NELKP,TN,IN,Nellikkuppam,Tamil Nadu,India
+NEAML,KA,IN,Nelamangala,Karnataka,India
+NEUMD,KL,IN,Nedumangad,Kerala,India
+NYDPT,AP,IN,Nayudupeta,Andhra Pradesh,India
+NAYRH,OR,IN,Nayagarh,Odisha,India
+NAWHR,PB,IN,Nawashahr,Punjab,India
+NAWGR,RJ,IN,Nawalgarh,Rajasthan,India
+NIWAI,RJ,IN,Niwai,Rajasthan,India
+NWADA,BR,IN,Nawada,Bihar,India
+NUHAT,BR,IN,Nauhatta,Bihar,India
+NAWQY,RJ,IN,Nawa,Rajasthan,India
+NAVLG,KA,IN,Navalgund,Karnataka,India
+NAVDI,WB,IN,Navadwip,West Bengal,India
+NUTWA,UP,IN,Nautanwa,Uttar Pradesh,India
+NAGCH,BR,IN,Naugachhia,Bihar,India
+NATTA,TN,IN,Nattam,Tamil Nadu,India
+NTHDW,RJ,IN,Nathdwara,Rajasthan,India
+NARHJ,MP,IN,Nasrullaganj,Madhya Pradesh,India
+NAIGJ,BR,IN,Nasriganj,Bihar,India
+NASPR,AP,IN,Naspur,Andhra Pradesh,India
+NSRBD,RJ,IN,Nasirabad,Rajasthan,India
+NASHK,MH,IN,Nashik,Maharashtra,India
+NRWAR,MP,IN,Narwar,Madhya Pradesh,India
+NARNA,HR,IN,Narwana,Haryana,India
+NAITM,AP,IN,Narsipatnam,Andhra Pradesh,India
+NAGHR,MP,IN,Narsinghgarh,Madhya Pradesh,India
+NRIHP,MP,IN,Narsimhapur,Madhya Pradesh,India
+NARUD,HR,IN,Narnaund,Haryana,India
+NRAUL,HR,IN,Narnaul,Haryana,India
+NAGUD,KA,IN,Nargund,Karnataka,India
+NEGAL,KA,IN,Naregal,Karnataka,India
+NARYP,AP,IN,Narayanpet,Andhra Pradesh,India
+NAYRH,HR,IN,Naraingarh,Haryana,India
+NRAVM,TN,IN,Naravarikuppam,Tamil Nadu,India
+NAAUR,UP,IN,Naraura,Uttar Pradesh,India
+NARUL,UP,IN,Narauli,Uttar Pradesh,India
+NAOET,AP,IN,Narasaraopet,Andhra Pradesh,India
+NRAUM,AP,IN,Narasapuram,Andhra Pradesh,India
+NRASP,AP,IN,Narasannapeta,Andhra Pradesh,India
+NARIN,MP,IN,Niwari,Madhya Pradesh,India
+NAAIN,RJ,IN,Naraina,Rajasthan,India
+NAPSR,RJ,IN,Napasar,Rajasthan,India
+NAPAA,UP,IN,Nanpara,Uttar Pradesh,India
+NAJGD,KA,IN,Nanjangud,Karnataka,India
+NTOWI,PB,IN,Nangal Township,Punjab,India
+NADYL,AP,IN,Nandyal,Andhra Pradesh,India
+NDURB,MH,IN,Nandurbar,Maharashtra,India
+NADUR,MH,IN,Nandura,Maharashtra,India
+NADKT,AP,IN,Nandikotkur,Andhra Pradesh,India
+NDIGA,AP,IN,Nandigama,Andhra Pradesh,India
+NDGAO,MH,IN,Nandgaon,Maharashtra,India
+NANED,MH,IN,Nanded,Maharashtra,India
+NAAUT,UP,IN,Nanauta,Uttar Pradesh,India
+NMRUP,AS,IN,Namrup,Assam,India
+NAMBR,TN,IN,Nambiyur,Tamil Nadu,India
+NMAKL,TN,IN,Namakkal,Tamil Nadu,India
+NAMGT,TN,IN,Namagiripettai,Tamil Nadu,India
+NLHAI,WB,IN,Nalhati,West Bengal,India
+NALOD,TG,IN,Nalgonda,Telangana,India
+NALDR,MH,IN,Naldurg,Maharashtra,India
+NAKUR,UP,IN,Nakur,Uttar Pradesh,India
+NKSLR,WB,IN,Naksalbari,West Bengal,India
+NAKDR,PB,IN,Nakodar,Punjab,India
+NAJIB,UP,IN,Najibabad,Uttar Pradesh,India
+NAIWA,RJ,IN,Nainwa,Rajasthan,India
+NAIPR,MP,IN,Nainpur,Madhya Pradesh,India
+NITAL,UT,IN,Nainital,Uttarakhand,India
+NHATI,WB,IN,Naihati,West Bengal,India
+NHRIA,AS,IN,Naharkatiya,Assam,India
+NAHAN,HP,IN,Nahan,Himachal Pradesh,India
+NAGUR,MH,IN,Nagpur,Maharashtra,India
+NAGOD,MP,IN,Nagod,Madhya Pradesh,India
+NAGIN,UP,IN,Nagina,Uttar Pradesh,India
+NAGIL,TN,IN,Nagercoil,Tamil Nadu,India
+NAGDA,MP,IN,Nagda,Madhya Pradesh,India
+NGAUR,RJ,IN,Nagaur,Rajasthan,India
+NKARU,AP,IN,Nagarkurnool,Andhra Pradesh,India
+NAGRI,AP,IN,Nagari,Andhra Pradesh,India
+NAGAR,RJ,IN,Nagar,Rajasthan,India
+NGAPT,TN,IN,Nagapattinam,Tamil Nadu,India
+NGAML,KA,IN,Nagamangala,Karnataka,India
+NDIAD,GJ,IN,Nadiad,Gujarat,India
+NDBAI,RJ,IN,Nadbai,Rajasthan,India
+NABIG,BR,IN,Nabinagar,Bihar,India
+NABHA,PB,IN,Nabha,Punjab,India
+MYSUR,KA,IN,Mysuru,Karnataka,India
+MUZFP,BR,IN,Muzaffarpur,Bihar,India
+MUZAF,UP,IN,Muzaffarnagar,Uttar Pradesh,India
+MUTPE,TN,IN,Muthupet,Tamil Nadu,India
+MUSIE,UT,IN,Mussoorie,Uttarakhand,India
+MUSRI,TN,IN,Musiri,Tamil Nadu,India
+MSHBN,JH,IN,Mosabani,Jharkhand,India
+MURWA,MP,IN,Murwara,Madhya Pradesh,India
+MUTJP,MH,IN,Murtijapur,Maharashtra,India
+MURSH,WB,IN,Murshidabad,West Bengal,India
+MUIGN,BR,IN,Murliganj,Bihar,India
+MORIN,PB,IN,Morinda,Punjab,India
+MURBD,MH,IN,Murbad,Maharashtra,India
+MURDA,UP,IN,Muradnagar,Uttar Pradesh,India
+MUNGE,BR,IN,Munger,Bihar,India
+MUNLI,CT,IN,Mungeli,Chhattisgarh,India
+MUAOL,MP,IN,Mungaoli,Madhya Pradesh,India
+MUNWA,RJ,IN,Mundwa,Rajasthan,India
+MUNDA,GJ,IN,Mundra,Gujarat,India
+MUGOD,KA,IN,Mundgod,Karnataka,India
+MUNDR,KA,IN,Mundargi,Karnataka,India
+MULTA,MP,IN,Multai,Madhya Pradesh,India
+MULKI,KA,IN,Mulki,Karnataka,India
+MLGUD,KA,IN,Mulgund,Karnataka,India
+MUBAG,KA,IN,Mulbagal,Karnataka,India
+MULPD,KL,IN,Mulappilangad,Kerala,India
+MLVYF,MH,IN,Mul,Maharashtra,India
+MUKSR,PB,IN,Muktsar,Punjab,India
+MKHER,MH,IN,Mukhed,Maharashtra,India
+MUKEN,PB,IN,Mukerian,Punjab,India
+MUHDA,UP,IN,Muhammadabad,Uttar Pradesh,India
+MUGAS,UP,IN,Mughal Sarai,Uttar Pradesh,India
+MUHED,MH,IN,Mudkhed,Maharashtra,India
+MUDHO,KA,IN,Mudhol,Karnataka,India
+MUDGA,KA,IN,Mudgal,Karnataka,India
+MUEHL,KA,IN,Muddebihal,Karnataka,India
+PLIGA,BR,IN,Paliganj,Bihar,India
+MOTHI,BR,IN,Motihari,Bihar,India
+MORWA,GJ,IN,Morwa,Gujarat,India
+MORSI,MH,IN,Morshi,Maharashtra,India
+MOENA,MP,IN,Morena,Madhya Pradesh,India
+MORBI,GJ,IN,Morbi,Gujarat,India
+MORAR,MP,IN,Morar,Madhya Pradesh,India
+MORAM,MH,IN,Murum,Maharashtra,India
+MOADB,UP,IN,Moradabad,Uttar Pradesh,India
+MNQQW,NL,IN,Mon,Nagaland,India
+MOKCN,NL,IN,Mokokchung,Nagaland,India
+MOKAM,BR,IN,Mokama,Bihar,India
+MOIRN,MN,IN,Moirang,Manipur,India
+MOAWQ,PB,IN,Moga,Punjab,India
+MODSA,GJ,IN,Modasa,Gujarat,India
+MISKH,UP,IN,Misrikh,Uttar Pradesh,India
+MIRZA,UP,IN,Mirzapur,Uttar Pradesh,India
+MYLGD,TG,IN,Miryalaguda,Telangana,India
+MIRGJ,UP,IN,Mirganj,Uttar Pradesh,India
+MIANU,UP,IN,Miranpur,Uttar Pradesh,India
+MINJR,TN,IN,Minjur,Tamil Nadu,India
+MILAK,UP,IN,Milak,Uttar Pradesh,India
+MIONA,MP,IN,Mihona,Madhya Pradesh,India
+MHAVD,MH,IN,Mhaswad,Maharashtra,India
+METUR,TN,IN,Mettur,Tamil Nadu,India
+METUA,TN,IN,Mettupalayam,Tamil Nadu,India
+MERTA,RJ,IN,Merta,Rajasthan,India
+MENRA,GJ,IN,Mendarda,Gujarat,India
+MEARI,WB,IN,Memari,West Bengal,India
+MELUR,TN,IN,Melur,Tamil Nadu,India
+MHNDL,UP,IN,Mehndawal,Uttar Pradesh,India
+MHEAR,MH,IN,Mehkar,Maharashtra,India
+MERUT,UP,IN,Meerut,Uttar Pradesh,India
+MEINP,WB,IN,Medinipur,West Bengal,India
+MEDAK,TG,IN,Medak,Telangana,India
+MYAHU,TN,IN,Mayiladuthurai,Tamil Nadu,India
+MAYGI,MN,IN,Mayang Imphal,Manipur,India
+MAANA,UP,IN,Mawana,Uttar Pradesh,India
+MAVOR,KL,IN,Mavoor,Kerala,India
+MAVKR,KL,IN,Mavelikara,Kerala,India
+MURAQ,PB,IN,Maur Mandi,Punjab,India
+MAGNJ,MP,IN,Mauganj,Madhya Pradesh,India
+MUDHA,UP,IN,Maudaha,Uttar Pradesh,India
+MAIMA,UP,IN,Mau Aimma,Uttar Pradesh,India
+MAWWP,MP,IN,Mau,Madhya Pradesh,India
+MAFUQ,UP,IN,Mau,Uttar Pradesh,India
+MATHR,UP,IN,Mathura,Uttar Pradesh,India
+MATHB,WB,IN,Mathabhanga,West Bengal,India
+MASUR,BR,IN,Masaurhi,Bihar,India
+MRGAO,GA,IN,Marmagao,Goa,India
+MARPU,AP,IN,Markapur,Andhra Pradesh,India
+MRANI,AS,IN,Mariani,Assam,India
+MRIHU,UP,IN,Mariahu,Uttar Pradesh,India
+MAHUR,BR,IN,Marhaura,Bihar,India
+MRGHI,AR,IN,Margherita,Arunachal Pradesh,India
+MRKNA,TN,IN,Marakkanam,Tamil Nadu,India
+MARRA,UP,IN,Marahra,Uttar Pradesh,India
+MPUCA,GA,IN,Mapusa,Goa,India
+GARLA,AP,IN,Garla,Andhra Pradesh,India
+MANVI,KA,IN,Manvi,Karnataka,India
+MANTH,AP,IN,Manthani,Andhra Pradesh,India
+MANSA,PB,IN,Mansa,Punjab,India
+MANSA,GJ,IN,Mansa,Gujarat,India
+MAORU,RJ,IN,Manoharpur,Rajasthan,India
+MAGDI,TN,IN,Mannargudi,Tamil Nadu,India
+MARKT,KL,IN,Mannarkkad,Kerala,India
+MANMA,MH,IN,Manmad,Maharashtra,India
+MAKCH,ML,IN,Mahendraganj,Meghalaya,India
+MAJGO,MH,IN,Majalgaon,Maharashtra,India
+MJHNR,UP,IN,Manjhanpur,Uttar Pradesh,India
+MANJR,KL,IN,Manjeri,Kerala,India
+MAHRI,BR,IN,Manihari,Bihar,India
+MNIAR,UP,IN,Maniar,Uttar Pradesh,India
+MANRP,MH,IN,Mangrulpir,Maharashtra,India
+MANGR,RJ,IN,Mangrol,Rajasthan,India
+MNGRL,GJ,IN,Mangrol,Gujarat,India
+MAGLR,UP,IN,Manglaur,Uttar Pradesh,India
+MANGL,KA,IN,Mangaluru,Karnataka,India
+MANGO,AS,IN,Mangaldoi,Assam,India
+MAGLI,AP,IN,Mangalagiri,Andhra Pradesh,India
+MANDY,KA,IN,Mandya,Karnataka,India
+MANVI,GJ,IN,Mandvi,Gujarat,India
+MANDS,MP,IN,Mandsaur,Madhya Pradesh,India
+MNDLA,MP,IN,Mandla,Madhya Pradesh,India
+MANDI,HP,IN,Mandi,Himachal Pradesh,India
+MANDW,UP,IN,Mandawar,Uttar Pradesh,India
+MNDPT,AP,IN,Mandapeta,Andhra Pradesh,India
+MANDP,TN,IN,Mandapam,Tamil Nadu,India
+MANDR,RJ,IN,Mandalgarh,Rajasthan,India
+MAERL,TG,IN,Mancherial,Telangana,India
+MNAWR,MP,IN,Manawar,Madhya Pradesh,India
+MAVDR,GJ,IN,Manavadar,Gujarat,India
+MAASA,MP,IN,Manasa,Madhya Pradesh,India
+MANRI,TN,IN,Manapparai,Tamil Nadu,India
+MANUI,TN,IN,Manamadurai,Tamil Nadu,India
+MALVN,MH,IN,Malvan,Maharashtra,India
+MALUR,KA,IN,Malur,Karnataka,India
+MALUR,RJ,IN,Malpura,Rajasthan,India
+MLADR,TN,IN,Mallasamudram,Tamil Nadu,India
+MALUR,MH,IN,Malkapur,Maharashtra,India
+MLKAN,CT,IN,Malkangiri,Chhattisgarh,India
+MALIH,UP,IN,Malihabad,Uttar Pradesh,India
+MARTL,PB,IN,Malerkotla,Punjab,India
+MALEN,MH,IN,Malegaon,Maharashtra,India
+MVALI,KA,IN,Malavalli,Karnataka,India
+MALUT,PB,IN,Maloudh,Punjab,India
+MLAPU,KL,IN,Malappuram,Kerala,India
+MAKUM,AS,IN,Makum,Assam,India
+MAKSI,MP,IN,Maksi,Madhya Pradesh,India
+MAKRN,RJ,IN,Makrana,Rajasthan,India
+MIRWA,BR,IN,Mairwa,Bihar,India
+MAINU,UP,IN,Mainpuri,Uttar Pradesh,India
+MANGU,WB,IN,Mainaguri,West Bengal,India
+MAIHR,MP,IN,Maihar,Madhya Pradesh,India
+MAHWA,RJ,IN,Mahwah,Rajasthan,India
+MHUDA,GJ,IN,Mahudha,Gujarat,India
+MAHOL,UP,IN,Maholi,Uttar Pradesh,India
+MAHOB,UP,IN,Mahoba,Uttar Pradesh,India
+MAHUB,UP,IN,Mahmudabad,Uttar Pradesh,India
+MAHIS,WB,IN,Mahishadal,West Bengal,India
+MSHWR,MP,IN,Maheshwar,Madhya Pradesh,India
+MAHDR,HR,IN,Mahendragarh,Haryana,India
+MAHED,GJ,IN,Mahemdavad,Gujarat,India
+KOTAD,AP,IN,Kotananduru,Andhra Pradesh,India
+MAHUB,TG,IN,Mahabubabad,Telangana,India
+MHASN,CT,IN,Mahasamund,Chhattisgarh,India
+MHRGJ,UP,IN,Maharajganj,Uttar Pradesh,India
+MAHNJ,BR,IN,Maharajganj,Bihar,India
+MAHAM,HR,IN,Maham,Haryana,India
+MAHNR,KA,IN,Mahalingpur,Karnataka,India
+MAHAD,MH,IN,Mahad,Maharashtra,India
+MAGHR,UP,IN,Maghar,Uttar Pradesh,India
+MAGDI,KA,IN,Magadi,Karnataka,India
+MDURI,TN,IN,Madurai,Tamil Nadu,India
+MADUK,TN,IN,Madukkur,Tamil Nadu,India
+CENAI,TN,IN,Chennai,Tamil Nadu,India
+MAIER,KA,IN,Madikeri,Karnataka,India
+MDHYR,WB,IN,Madhyamgram,West Bengal,India
+MADPR,JH,IN,Madhupur,Jharkhand,India
+MADUG,KA,IN,Madhugiri,Karnataka,India
+MDHUB,BR,IN,Madhubani,Bihar,India
